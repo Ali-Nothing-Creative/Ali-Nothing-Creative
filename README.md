@@ -1,5 +1,5 @@
-hello i am ali (they/he) and i like to code sometimes
-i suck at coding though
+hi! my name is avis!
+i like coding things sometimes because yes
 
 <!---
 Ali-Nothing-Creative/Ali-Nothing-Creative is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
